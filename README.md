@@ -1,5 +1,5 @@
 # SummitPublicSchools_Internship
-Here are a few of projects I worked on while interning at Summit.
+Here are a few of the projects I worked on while interning at Summit.
 
 Agenda Replicator: This script uses Google Drive API to generate copies of a base document, and place them in specified folders. 
                    Links to those copies are automatically uploaded to a Google Sheet.
